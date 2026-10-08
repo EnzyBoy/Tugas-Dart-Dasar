@@ -3,7 +3,7 @@ void main() {
 
   var variableint = variable as int;
 
-  // ignore: unnecessary_type_check
+ 
   var isint = variable is int;
   var isnotboolean = variable is! bool;
 
